@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinasandais&label=Profile%20views&color=0e75b6&style=flat" alt="sabinasandais" /> </p>
 
+- 🔭 I’m currently working on **my portfolio**
+
+- 🌱 I’m currently learning **typescript**
+
+- 👯 I’m looking to collaborate on **open sorce projects**
+
+- 💬 Ask me about **react**
+
 - 📫 How to reach me **sabinasandais@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
